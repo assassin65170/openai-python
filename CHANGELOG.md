@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.13.4 (2024-03-05)
+
+Full Changelog: [v1.13.3...v1.13.4](https://github.com/openai/openai-python/compare/v1.13.3...v1.13.4)
+
+### Chores
+
+* **api:** update docs ([#1212](https://github.com/openai/openai-python/issues/1212)) ([71236e0](https://github.com/openai/openai-python/commit/71236e0de4012a249af4c1ffd95973a8ba4fa61f))
+* **docs:** mention install from git repo ([#1203](https://github.com/openai/openai-python/issues/1203)) ([3ab6f44](https://github.com/openai/openai-python/commit/3ab6f447ffd8d2394e58416e401e545a99ec85af))
+* **internal:** minor core client restructuring ([#1199](https://github.com/openai/openai-python/issues/1199)) ([4314cdc](https://github.com/openai/openai-python/commit/4314cdcd522537e6cbbd87206d5bb236f672ce05))
+* **internal:** split up transforms into sync / async ([#1210](https://github.com/openai/openai-python/issues/1210)) ([7853a83](https://github.com/openai/openai-python/commit/7853a8358864957cc183581bdf7c03810a7b2756))
+* **internal:** support more input types ([#1211](https://github.com/openai/openai-python/issues/1211)) ([d0e4baa](https://github.com/openai/openai-python/commit/d0e4baa40d32c2da0ce5ceef8e0c7193b98f2b5a))
+
+
+### Documentation
+
+* **contributing:** improve wording ([#1201](https://github.com/openai/openai-python/issues/1201)) ([95a1e0e](https://github.com/openai/openai-python/commit/95a1e0ea8e5446c413606847ebf9e35afbc62bf9))
+
 ## 1.13.3 (2024-02-28)
 
 Full Changelog: [v1.13.2...v1.13.3](https://github.com/openai/openai-python/compare/v1.13.2...v1.13.3)
